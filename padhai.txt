@@ -1,1 +1,6 @@
-hame apne study pe pura bharosa hai
+git init
+git add "padhai.txt"
+git commit -m "first commit"
+git branch -m main
+git remote and origin https://github.com/shrivastav-shubham29/MERNSTACK.git
+git push -u origin main
